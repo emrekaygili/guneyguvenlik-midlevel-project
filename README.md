@@ -6,7 +6,7 @@ Hakkımızda kısmı
 Hizmetler kısmı
 ![Ekran görüntüsü 2024-04-16 144957](https://github.com/emrekaygili/guneyguvenlik-midlevel-project/assets/96821841/d985ebcb-c715-4059-8699-d0c0e923219e)
 Ekip kısmı
-![Uploading Ekran görüntüsü 2024-04-16 153739.jpg…]()
+![Ekran görüntüsü 2024-04-16 153739](https://github.com/emrekaygili/guneyguvenlik-midlevel-project/assets/96821841/a01c26bb-393f-43aa-8a9b-70e4d49b0005)
 İletişim alanı ve Kullanıcıdan verinin alındığı kısım
 ![Ekran görüntüsü 2024-04-16 153350](https://github.com/emrekaygili/guneyguvenlik-midlevel-project/assets/96821841/98de6aca-2a0a-4d4b-bd36-7b3d29791f41)
 Panel Giriş Kontrol
